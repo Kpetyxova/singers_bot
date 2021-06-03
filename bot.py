@@ -82,8 +82,8 @@ def main():
     'proxy_url': 'socks5://347738780:IviFTbNi@orbtl.s5.opennetwork.cc:999',
     # Optional, if you need authentication:
     'urllib3_proxy_kwargs': {
-        'username': '347738780',
-        'password': 'IviFTbNi',
+        'username': '',
+        'password': '',
         }
     }
 
